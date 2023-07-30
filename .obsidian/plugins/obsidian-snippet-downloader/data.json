@@ -1,3 +1,63 @@
 {
-  "excludedSnippet": ""
+  "snippetList": [
+    {
+      "repo": "SlRvb/Obsidian--ITS-Theme",
+      "snippetsContents": [
+        {
+          "name": "Snippets/Defunct/S - Admonitions.css",
+          "lastUpdate": "2023-05-19T07:33:35Z"
+        },
+        {
+          "name": "Snippets/Defunct/S - Aside.css",
+          "lastUpdate": "2023-05-19T07:33:35Z"
+        },
+        {
+          "name": "Snippets/Defunct/S - Folder Styles.css",
+          "lastUpdate": "2023-05-24T07:59:12Z"
+        },
+        {
+          "name": "Snippets/Defunct/S - Kanban.css",
+          "lastUpdate": "2023-05-19T07:33:35Z"
+        },
+        {
+          "name": "Snippets/S - Callouts.css",
+          "lastUpdate": "2023-07-24T02:43:20Z"
+        },
+        {
+          "name": "Snippets/S - Checkboxes.css",
+          "lastUpdate": "2023-07-24T00:27:25Z"
+        },
+        {
+          "name": "Snippets/S - Dataview Cards.css",
+          "lastUpdate": "2022-08-29T09:24:42Z"
+        },
+        {
+          "name": "Snippets/S - Embed Adjustments.css",
+          "lastUpdate": "2023-07-11T00:07:15Z"
+        },
+        {
+          "name": "Snippets/S - Encoded Fonts.css",
+          "lastUpdate": "2023-05-27T10:49:30Z"
+        },
+        {
+          "name": "Snippets/S - Encoded Icons.css",
+          "lastUpdate": "2022-08-29T09:24:42Z"
+        },
+        {
+          "name": "Snippets/S - External Link Icons.css",
+          "lastUpdate": "2022-08-29T09:24:42Z"
+        },
+        {
+          "name": "Snippets/S - Folder Styles Rewritten.css",
+          "lastUpdate": "2023-05-24T07:21:09Z"
+        },
+        {
+          "name": "Snippets/S - Images Adjustments.css",
+          "lastUpdate": "2023-05-19T07:33:35Z"
+        }
+      ]
+    }
+  ],
+  "excludedSnippet": "\\(abandoned\\)|^Alt Color Schemes|theme\\.css|publish\\.css|^Defunct",
+  "errorSnippet": "\\(abandoned\\)|^Alt Color Schemes|theme\\.css|publish\\.css|^Defunct, Snippets/Defunct/Theme - All Alternate Themes.css"
 }
