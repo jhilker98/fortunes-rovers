@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/480.md",
+                "file": "Sessions/482.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b8c32d5bcde7612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/483.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/480.md",
+                "file": "Sessions/483.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/480.md",
+                "file": "Sessions/483.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/480.md"
+                "file": "Sessions/483.md"
               }
             }
           }
@@ -156,10 +168,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56550d2b37f3c9f9",
+  "floating": {
+    "id": "0cf2bc39b6e2d5f1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "21d5c9b8973d6bbf",
+        "type": "window",
+        "children": [
+          {
+            "id": "4be6968da79e18c4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a7baf88ae0c2759",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions/483.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 234,
+        "y": 42,
+        "width": 1025,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0a7baf88ae0c2759",
   "lastOpenFiles": [
-    "Sessions",
+    "Sessions/482.md",
+    "Sessions/483.md",
+    "Sessions/481.md",
     "Sessions/480.md",
+    "Sessions",
     "README.md",
     "_templates/Session.md",
     "_templates"
