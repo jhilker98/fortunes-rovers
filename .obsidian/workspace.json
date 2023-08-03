@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "56550d2b37f3c9f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/480.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Session.md",
+                "file": "Sessions/480.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Session.md",
+                "file": "Sessions/480.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/Session.md"
+                "file": "Sessions/480.md"
               }
             }
           }
@@ -143,8 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8c0ff40f6d8868a",
+  "active": "56550d2b37f3c9f9",
   "lastOpenFiles": [
+    "Sessions",
+    "Sessions/480.md",
     "README.md",
     "_templates/Session.md",
     "_templates"
