@@ -11,8 +11,12 @@
             "id": "4fafb3261e7ac4b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/484.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/483.md",
+                "file": "Sessions/484.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/483.md",
+                "file": "Sessions/484.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/483.md"
+                "file": "Sessions/484.md"
               }
             }
           }
@@ -168,45 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "0cf2bc39b6e2d5f1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "21d5c9b8973d6bbf",
-        "type": "window",
-        "children": [
-          {
-            "id": "4be6968da79e18c4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0a7baf88ae0c2759",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessions/483.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 234,
-        "y": 42,
-        "width": 1025,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0a7baf88ae0c2759",
+  "active": "4fafb3261e7ac4b9",
   "lastOpenFiles": [
+    "Sessions/484.md",
     "Sessions/482.md",
     "Sessions/483.md",
     "Sessions/481.md",
